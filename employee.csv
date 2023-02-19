@@ -1,6 +1,0 @@
-question,A,B,C,D,correct_answer
-5 x 5 = ?,25,5,55,35,A
-Which of the following statement is true?,Python contains a random module,Python does not contain any modules,"You can only use double quotation ("") for strings in Python",Python only has 4 data types,A
-When is Christmas?,25-Jan,25-Feb,25-Dec,25-Oct,C
-10 x 5 - 2 = ?,52,98,88,48,D
-Which of the following statement is false?,Lists are mutable,Tuples are mutable,Dictionaries are mutable,Sets are mutable,B
